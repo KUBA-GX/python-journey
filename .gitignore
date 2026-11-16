@@ -18,6 +18,7 @@ desktop.ini
 *recovery*code*
 *recovery-code*
 .env
+*.env
 .env.*
 !.env.example
 secrets*
